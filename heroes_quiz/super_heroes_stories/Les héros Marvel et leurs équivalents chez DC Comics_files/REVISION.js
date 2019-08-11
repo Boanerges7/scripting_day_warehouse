@@ -1,1 +1,0 @@
-var creativeEnv = 'prod'; var creativeRevision = '2.0.12-766';
