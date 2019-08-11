@@ -1,10 +1,6 @@
-I'm a woman, and i look like batman:Catwoman
-I'm a warrior, i can fly and i look like a hawk.:Hawkman
-I'm the dark knight:Batman
-You can catch me when i'm in water. My kingdom is there:Aquaman
-I hate superman, batman, and my strength is equal to hulk:Solomon grundy
-When i run, you can't see me, and sometimes a do mission with arrow, my friend.:Flash
-Metal and magneto-electric fields are allies:Dr polaris
-I didn't a human. Morning i'm a reporter, i'm fear of kryptonite:Superman
-I'm a member of justice league, and electricity didn't make me fear:Black lightning
-My body is made with sands, i hate spiderman.:Sandsman
+I'm a woman, and i look like batman:catwoman
+I'm a warrior, i can fly and i look like a hawk.:hawkman
+I'm a former student in biology whose teacher has modified the body with steel:commandant steel
+You can catch me when i'm in water. My kingdom is there:aquaman
+I am in clay and I hate batman:clay face
+I can fly, breathe in space, translate any language and materialize everything.:green lantern
