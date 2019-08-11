@@ -1,0 +1,1918 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#">
+<head>
+    <meta charset="utf-8">
+	<title>Hitek : actualité geek et tests high tech</title>
+
+	<meta property="og:title" content="Hitek : actualité geek et tests high tech" />
+
+	<meta name="robots" content="index,follow" />
+
+	
+	<meta name="generator" content="Kiwii" />
+
+	<meta name="google-site-verification" content="8sIoQjwkewy-OoUT-stueh0-RdpLQRwZWTmldodd0Lo" />
+
+	<link rel="icon" type="image/png" href="https://static.hitek.fr/img/favicon.png" />
+	<!--[if lte IE 6]>
+		<link rel="icon" type="image/x-icon" href="https://static.hitek.fr/img/favicon.ico" />
+	<![endif]-->
+    
+	<link rel="canonical" href="https://hitek.fr" />
+	<meta property="og:url" content="https://hitek.fr" />
+
+	
+	<!-- CSS -->
+	<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/themes/smoothness/jquery-ui.css">
+	<link href='//fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic|Droid+Sans:400,700' rel='stylesheet' type='text/css'>
+	<link href="/styles/font.css" type="text/css" rel="stylesheet">
+
+						<link href="/styles/common.css?1532381126" type="text/css" rel="stylesheet">
+						    		
+	<link href="https://static.hitek.fr/styles/grid.css?1423144131" type="text/css" rel="stylesheet">
+		<link href="https://hitek.fr/styles/sondages.css?1461834536" type="text/css" rel="stylesheet">
+			<link rel="stylesheet" type="text/css" href="https://static.hitek.fr/resources/orbit-slider/orbit-1.2.3.css?1426088629">
+	<link rel="stylesheet" type="text/css" href="https://static.hitek.fr/resources/fbox/jquery.fancybox-1.3.4.css">
+	
+	<!-- load extra headers -->
+	
+
+	<!-- load styles -->
+	<link rel="stylesheet" type="text/css"  href="/styles/home.css?1426674312" />
+
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="https://static.hitek.fr/resources/modernizr.js"></script>
+    <script type="text/javascript" src="https://static.hitek.fr/resources/css3-mediaqueries.js"></script>
+	<script type="text/javascript" src="https://static.hitek.fr/resources/lazyload.js"></script>
+	<script type="text/javascript" src="https://static.hitek.fr/resources/wait.js?1441358446"></script>
+	<script type="text/javascript">
+		is_blocker = false;
+	</script>
+
+
+	<!-- load scripts -->
+	<script type="text/javascript" src="https://hitek.fr/resources/orbit-slider/jquery.orbit-1.2.3.js?v=1426092261" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/fbox/jquery.fancybox-1.3.4_patch.js?v=1397639990" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/sidr-package-1.1.1/jquery.sidr.min.js?v=1370438114" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/Jquery.touchSwipe.min.js?v=1378123527" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/Jquery.mousewheel.min.js?v=1378125182" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/carouFredSel.min.js?v=1378122528" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/js.cookie.js?v=1444060481" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/scripts/common.js?v=1541493389" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/sondages.js?v=1392221857" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/parser.js?v=1386843312" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/prices.js?v=1401970319" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/quiz.js?v=1495117527" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/proofreader.js?v=1433427476" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/hitv.js?v=1498224121" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/perfect-scrollbar.min.js?v=1441289697" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr/resources/dvideo.js?v=1443452050" charset="utf-8"></script>
+	<script type="text/javascript" src="https://hitek.fr?v=1539248452" charset="utf-8"></script>
+
+	<script type="text/javascript">
+		window._taboola = window._taboola || [];
+		_taboola.push({article:'auto'});
+		!function (e, f, u) {
+			e.async = 1;
+			e.src = u;
+			f.parentNode.insertBefore(e, f);
+		}(document.createElement('script'), document.getElementsByTagName('script')[0], 'https://cdn.taboola.com/libtrc/hitek/loader.js');
+	</script>
+
+	<script type="text/javascript">
+	// api facebook
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s); js.id = id;
+		js.async=true;js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=207644642737881";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+
+	// api twitter
+	window.twttr = (function(d,s,id) {
+		var js,
+			fjs = d.getElementsByTagName(s)[0],
+			t = window.twttr || {};
+		if (d.getElementById(id))
+			return;
+		js = d.createElement(s);
+		js.id = id;
+		js.src = "https://platform.twitter.com/widgets.js";
+		fjs.parentNode.insertBefore(js, fjs);
+		t._e = [];
+		t.ready = function(f) {
+			t._e.push(f);
+		};
+		return t;
+	} (document,"script","twitter-wjs"));
+
+	// api google plus
+	window.___gcfg = {lang: 'fr'};
+	(function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	})();
+	</script>
+
+			<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+	
+	<script src="//api.dmcdn.net/all.js"></script>
+	<script>
+	    DM.init({
+	        apiKey: '61302eab3e14e92cfa51',
+	        status: true,
+	        cookie: true
+	    });
+	</script>
+
+	
+		
+		
+    	    	<script type='text/javascript' src='https://ads.servebom.com/tmnhead.js'></script>
+    	<script type='text/javascript'>
+    	        	        tmntag.placement('2070');
+    	        	        	        tmntag.target({'tag':["cat_generique"]});
+    	        	    tmntag.start();
+    	</script>
+    	        	
+	
+		
+		
+
+</head>
+<body >
+
+
+
+	<!--[if gte IE 9]
+		<style type="text/css">
+		.gradient {
+			filter: none;
+		}
+		</style>
+	<![endif]-->
+
+	<script type="text/javascript">
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-60535201-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+	
+	
+	
+		
+	
+		
+		
+		<div>
+			<div id="header-container">
+				<div class="header-container">
+
+					<div class="header-basics">
+				    	<div class="header-content">
+					    	
+				    					    			<div class="logo inline-block"><a href="/"><img src="https://static.hitek.fr/img/logo.png" alt="HITEK"></a></div>
+				    					    			
+				    					    					    	<div class="inline-block">
+				    		<form action="https://hitek.fr/recherche/" id="cse-search-box">
+								<div>
+									<input type="hidden" name="cx" value="partner-pub-5178384206751892:6437068555" />
+									<input type="hidden" name="cof" value="FORID:10" />
+									<input type="hidden" name="ie" value="UTF-8" />
+									<input type="text" class="search" name="q" size="55" placeholder="Chercher une info.." />
+								</div>
+							</form>
+						</div>
+				    	
+				    	<div class="hpanel inline-block">
+					    	<div class="header-panel">
+					    							    		<div id="fb-root"></div>
+						    	<div class="panel-share">
+							    	
+							    	<div style="margin-top:5px;">
+							    		<a href="https://itunes.apple.com/fr/app/hitek/id763667075?mt=8" rel="nofollow" target="_blank"><img src="https://static.hitek.fr/img/hitek-iphone.png" alt="Hitek pour iPhone" style="margin-right:2px;"></a>
+							    		<a href="https://play.google.com/store/apps/details?id=com.goodbarber.hitek" rel="nofollow" target="_blank"><img src="https://static.hitek.fr/img/hitek-android.png" alt="Hitek pour Android" style="margin-right:13px;"></a>
+							    	</div>
+						    	</div>
+							</div>
+
+							</div>
+						</div>
+					</div>
+
+					<div class="header-menu">
+	<div class="header-content">
+		<div class="left special-menu">
+			<a href="/actualite">
+				<div class="left menu-number">43</div>
+				<div class="uppercase left" style="font-size:16px">
+					<div style="margin-top:8px;">articles</div>
+					<div style="margin-top:-5px;">cette semaine</div>
+				</div>
+			</a>
+		</div>
+		<ul>
+			<li class="dropdown-menu touchme">
+				<a class="news uppercase" href="/actualite">Actualités</a>
+				<div class="dropped-menu revealtouch">
+
+					<div class="dropped-container">
+
+												<div class="dropped-left">
+							<table class="inline-block left" style="border-right: 1px solid #e9e9e9;">
+								<tr>
+									<th colspan="4"><h4 class="uppercase">Catégories</h4></th>
+								</tr>
+								<tr>
+																			<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/appareils-photo">Appareils photo</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/art">Art</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/cinema">Cinéma</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/dessins-animes">Dessins animés</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/histoire">Histoire</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/hitek">Hitek</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/informatique">Informatique</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/insolite">Insolite</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/jeux-video">Jeux vidéo</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/mangas">Mangas/Comics</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/objets-connectes">Objets connectés</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/operateurs">Opérateurs</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/science">Science</a></td>
+											<td width="70"></td>
+																				<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+												<td><a href="/categorie/series-tv">Séries TV</a></td>
+												<td width="70"></td>
+											</tr>
+								<tr>											<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/categorie/smartphones">Smartphones</a></td>
+											<td width="70"></td>
+								</tr>							</table>
+
+							<table class="inline-block left" style="margin-left: 20px;">
+								<tr>
+									<th colspan="2"><h4 class="uppercase">Made in Hitek.fr</h4></th>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/tuto">Nos tutos</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/dossier">Nos dossiers</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/le-compte-est-bon">Le compte est bon</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/micro-trottoir">Nos micro-trottoirs</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/quizz">Nos quizz</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/test-de-personnalite">Nos tests de personnalité</a></td>
+									<td width="50"></td>
+								</tr>
+								<tr>
+									<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+									<td><a href="/tag/geekbusters">GeekBusters</a></td>
+									<td width="50"></td>
+								</tr>
+							</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/actualite/bons-plans-xiaomi-pocophone-f1-yeelight-utorch-q5_18224" title="Bonnes affaires du jour : Pocophone F1 à 255 euros, ampoule connectée Yeelight et une station de rechargement multi-USB" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1295206194/bonnes_affaires.jpg) center; background-size:cover;"></a>
+													<div class="hot-count"><p>3</p></div>													<div class="hot-bot uppercase"><a href="/actualite/bons-plans-xiaomi-pocophone-f1-yeelight-utorch-q5_18224">Bonnes affaires du jour : Pocophone F1 à 255 euros, ampoule…</a></div>
+												</div>
+											</td>
+										</tr>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/actualite/super-smash-bro--ultimate-astuces-debloquer-personnage_18223" title="Super Smash Bros. Ultimate : les astuces pour débloquer tous les personnages" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1955954621/H2x1_NSwitch_SuperSmashBrosUltimate_02_image1600w.jpg) center; background-size:cover;"></a>
+													<div class="hot-count"><p>286</p></div>													<div class="hot-bot uppercase"><a href="/actualite/super-smash-bro--ultimate-astuces-debloquer-personnage_18223">Super Smash Bros. Ultimate : les astuces pour débloquer…</a></div>
+												</div>
+											</td>
+										</tr>
+															</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/actualite/xiaomi-smartphone-pliable-video_18222" title="Xiaomi : une vidéo d'un smartphone qui se plie de chaque côté" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1953694952/tnw.JPG) center; background-size:cover;"></a>
+											<div class="hot-count"><p>33</p></div>											<div class="hot-bot uppercase"><a href="/actualite/xiaomi-smartphone-pliable-video_18222">Xiaomi : une vidéo d'un smartphone qui se plie de chaque…</a></div>
+										</div>
+									</td>
+								</tr>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/actualite/modification-sauvegarde-donnee-interdit-japon_18220" title="Japon : une nouvelle loi interdit la modification de sauvegarde d'un jeu vidéo" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1642452613/Switch-01.jpg) center; background-size:cover;"></a>
+											<div class="hot-count"><p>238</p></div>											<div class="hot-bot uppercase"><a href="/actualite/modification-sauvegarde-donnee-interdit-japon_18220">Japon : une nouvelle loi interdit la modification de…</a></div>
+										</div>
+									</td>
+								</tr>
+													</table>
+						</div>
+
+					</div>
+
+				</div>
+			</li>
+
+			<li class="dropdown-menu touchme">
+				<a class="products uppercase" href="/produits">Produits</a>
+
+				<div class="dropped-menu revealtouch" style="height:auto;">
+
+					<div class="dropped-container">
+										<div class="dropped-left">
+						<table>
+							<tr>
+								<th colspan="4"><h4 class="uppercase">Catégories de produits</h4></th>
+							</tr>
+																	<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/appareils-photo">Appareils photo</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/smartphones">Smartphones</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/capteurs-activite">Capteurs d'activité</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/montres-connectees">Montres connectées</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/casques-ecouteurs">Casques/Écouteurs</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/tablettes">Tablettes</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/enceintes">Enceintes</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/souris">Souris</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/tv">TV</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/jouets">Jouets</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/camera-de-sport">Caméra de sport</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/objets-connectes">Objets connectés</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/consoles-de-jeux">Consoles de jeux</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/aspirateurs-robots">Aspirateurs robots</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/accessoires-tv">Accessoires TV</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/ordinateurs">Ordinateurs</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/claviers">Claviers</a></td>
+										<td width="70"></td>
+																		<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+											<td><a href="/produits/drone">Drone</a></td>
+											<td width="70"></td>
+										</tr>
+							<tr>						</table>
+					</div>
+											<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+							<table width="0" height="0">
+								<tr>
+									<td>
+										<a href="/test/anker-soundcore-flare_1666">
+											<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+												    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/anker/anker-soundcore-flare/medium/anker-soundcore-flare.jpg" alt="SoundCore Flare Picture" />
+										    </div>
+										</a>
+									</td>
+								</tr>
+							</table>
+							<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/anker-soundcore-flare_1666" title="SoundCore Flare">
+								anker SoundCore Flare							</a>
+						</div>
+												<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+							<table width="0" height="0">
+								<tr>
+									<td>
+										<a href="/test/google-pixel-3-xl_1653">
+											<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+												    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/google/google-pixel-3-xl/medium/google-pixel-3-xl-1.jpg" alt="Pixel 3 XL Picture" />
+										    </div>
+										</a>
+									</td>
+								</tr>
+							</table>
+							<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/google-pixel-3-xl_1653" title="Pixel 3 XL">
+								Google Pixel 3 XL							</a>
+						</div>
+												<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+							<table width="0" height="0">
+								<tr>
+									<td>
+										<a href="/test/asus-tuf765_1662">
+											<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+												    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/asus/asus-tuf765/medium/asus-tuf765.jpg" alt="TUF765 Picture" />
+										    </div>
+										</a>
+									</td>
+								</tr>
+							</table>
+							<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/asus-tuf765_1662" title="TUF765">
+								Asus TUF765							</a>
+						</div>
+												<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+							<table width="0" height="0">
+								<tr>
+									<td>
+										<a href="/test/huawei-p20-pro_1661">
+											<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+												    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/huawei/huawei-p20-pro/medium/huawei-p20-pro.jpg" alt="P20 Pro Picture" />
+										    </div>
+										</a>
+									</td>
+								</tr>
+							</table>
+							<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/huawei-p20-pro_1661" title="P20 Pro">
+								Huawei P20 Pro							</a>
+						</div>
+											</div>
+					<br>
+				</div>
+
+			</li>
+
+			<li class="dropdown-menu touchme">
+				<a class="films-tv uppercase" href="/films-series">Films & séries</a>
+
+				<div class="dropped-menu revealtouch" style="height:auto;">
+
+					<div class="dropped-container">
+												<div class="dropped-left">
+							<table>
+								<tr>
+									<th colspan="4"><h4 class="uppercase">Films</h4></th>
+								</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/action">Action</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/animation">Animation</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/animation-3d">Animation 3D</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/arts-martiaux">Arts martiaux</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/aventure">Aventure</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/biographique">Biographique</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/catastrophe">Catastrophe</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/films/comedie">Comédie</a></td>
+										<td width="70"></td>
+									</tr>
+															</table>
+						</div>
+						<div class="dropped-left">
+							<table>
+								<tr>
+									<th colspan="4"><h4 class="uppercase">Séries TV</h4></th>
+								</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/action">Action</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/animation">Animation</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/animation-3d">Animation 3D</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/aventure">Aventure</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/comedie">Comédie</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/drame">Drame</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/espionnage">Espionnage</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/series-tv/fantastique">Fantastique</a></td>
+										<td width="70"></td>
+									</tr>
+															</table>
+						</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/warner-bros-les-animaux-fantastiques-2-les-crimes-de-grindelwald_1548">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/warner-bros/warner-bros-les-animaux-fantastiques-2-les-crimes-de-grindelwald/medium/warner-bros-les-animaux-fantastiques-2-les-crimes-de-grindelwald.jpg" alt="Les Animaux fantastiques 2 : les Crimes de Grindelwald Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/warner-bros-les-animaux-fantastiques-2-les-crimes-de-grindelwald_1548" title="Les Animaux fantastiques 2 : les Crimes de Grindelwald">
+											Les Animaux fantastiques 2 : les Crimes de Grindelwald										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/marvel-captain-marvel_1619">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/marvel/marvel-captain-marvel/medium/marvel-captain-marvel.jpg" alt="Captain Marvel Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/marvel-captain-marvel_1619" title="Captain Marvel">
+											Captain Marvel										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/universal-pictures-jurassic-world-2_1377">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/universal-pictures/universal-pictures-jurassic-world-2/medium/universal-pictures-jurassic-world-2-1.jpg" alt="Jurassic World Fallen Kingdom Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/universal-pictures-jurassic-world-2_1377" title="Jurassic World Fallen Kingdom">
+											Jurassic World Fallen Kingdom										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/lucasfilm-han-solo_1570">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/lucasfilm/lucasfilm-han-solo/medium/lucasfilm-han-solo-3.jpg" alt="Solo : A Star Wars Story Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/lucasfilm-han-solo_1570" title="Solo : A Star Wars Story">
+											Solo : A Star Wars Story										</a>
+									</div>
+											</div>
+					<br>
+				</div>
+
+			</li>
+
+			<li class="dropdown-menu touchme">
+				<a class="videogames uppercase" href="/jeux-video">Jeux-vidéo</a>
+
+				<div class="dropped-menu revealtouch" style="height:auto;">
+
+					<div class="dropped-container">
+												<div class="dropped-left">
+							<table>
+								<tr>
+									<th colspan="4"><h4 class="uppercase">Plateformes</h4></th>
+								</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/pc">PC</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/ps3">PS3</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/xbox-360">Xbox 360</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/ps4">PS4</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/xbox-one">Xbox One</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/wii-u">Wii U</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/wii">Wii</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/3ds">3DS</a></td>
+										<td width="70"></td>
+									</tr>
+															</table>
+						</div>
+						<div class="dropped-left">
+							<table>
+								<tr>
+									<th colspan="4"><h4 class="uppercase">Genres</h4></th>
+								</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/fps">FPS</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/combat">Combat</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/action">Action</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/infiltration">Infiltration</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/aventure">Aventure</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/sport">Sport</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/plates-formes">Plates-formes</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/produits/jeux-video/survival-horror">Survival-horror</a></td>
+										<td width="70"></td>
+									</tr>
+															</table>
+						</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/square-enix-shadow-of-the-tomb-raider_1641">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/square-enix/square-enix-shadow-of-the-tomb-raider/medium/square-enix-shadow-of-the-tomb-raider.jpg" alt="Shadow of the Tomb Raider Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/square-enix-shadow-of-the-tomb-raider_1641" title="Shadow of the Tomb Raider">
+											Shadow of the Tomb Raider										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/square-enix-dragon-quest-xi_847">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/square-enix/square-enix-dragon-quest-xi/medium/square-enix-dragon-quest-xi.jpg" alt="Dragon Quest XI Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/square-enix-dragon-quest-xi_847" title="Dragon Quest XI">
+											Dragon Quest XI										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/frontier-developments-jurassic-world-evolution_1618">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/frontier-developments/frontier-developments-jurassic-world-evolution/medium/frontier-developments-jurassic-world-evolution.jpg" alt="Jurassic World Evolution Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/frontier-developments-jurassic-world-evolution_1618" title="Jurassic World Evolution">
+											Jurassic World Evolution										</a>
+									</div>
+															<div class="dropped-left" style="min-width:0;border:none;position:relative;">
+										<table width="0" height="0">
+											<tr>
+												<td>
+													<a href="/test/image-form-games-steamworld-dig-2_1615">
+														<div class="left product-pic" style="width:90px;height:120px;top:0;left:0;padding:0 5px 5px 5px;">
+
+															    <img style="max-width:70px;max-height:110px;bottom:10px;" src="/img/products/image-form-games/image-form-games-steamworld-dig-2/medium/image-form-games-steamworld-dig-2-5.jpg" alt="SteamWorld Dig 2 Picture" />
+													    </div>
+													</a>
+												</td>
+											</tr>
+										</table>
+										<a style="color:#a22728;position:absolute;left:0;right:0;text-align:center;margin:auto;" href="/test/image-form-games-steamworld-dig-2_1615" title="SteamWorld Dig 2">
+											SteamWorld Dig 2										</a>
+									</div>
+											</div>
+					<br>
+				</div>
+
+			</li>
+
+			<li class="dropdown-menu touchme">
+				<a class="uppercase" href="/42">Zone<span class="zone-42"></span></a>
+
+				<div class="dropped-menu revealtouch">
+
+					<div class="dropped-container">
+
+						<div class="dropped-left">
+							<table width="338">
+								<tr>
+									<th colspan="2"><a style="margin-left:0px;" href="/42"><h4 class="uppercase">Entre dans la Zone 42</h4></a></th>
+								</tr>
+								<tr>
+									<td>
+										<p style="width:270px">
+											Tu as quelques minutes à perdre ?
+										</p><br>
+										<p style="width:270px;padding-top:5px">
+											Alors entre dans la Zone 42, lieu de perdition (de ton temps) où mèmes, personnages Geek, lolcats et humour te rendent addict jusqu'à la moelle.
+										</p><br>
+										<p style="width:270px;padding-top:5px">
+											Alors viens, on est bien !
+										</p>
+									</td>
+								</tr>
+							</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/18-ans-routine-couple-mario-kart-64-the_6355" title="Chaque jour depuis 18 ans, ce couple décide qui devra faire le thé par une partie de Mario Kart 64" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/50225749/9987-768x432.jpg) center; background-size:cover;"></a>
+											<div class="hot-count"><p>12 483</p></div>											<div class="hot-bot uppercase"><a href="/42/18-ans-routine-couple-mario-kart-64-the_6355">Chaque jour depuis 18 ans, ce couple décide qui devra faire…</a></div>
+										</div>
+									</td>
+								</tr>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/la-casa-de-michel-jacquie-et-michel-reprend-casa-papel_6357" title="La Casa de Michel : quand Jacquie et Michel reprend La Casa de Papel de Netflix" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/554268784/casa-de-michel.png) center; background-size:cover;"></a>
+											<div class="hot-count"><p>3 490</p></div>											<div class="hot-bot uppercase"><a href="/42/la-casa-de-michel-jacquie-et-michel-reprend-casa-papel_6357">La Casa de Michel : quand Jacquie et Michel reprend La Casa…</a></div>
+										</div>
+									</td>
+								</tr>
+													</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/mechant-disney-illustration-japonais-j_6354" title="L'illustrateur japonais "J" repense les grands méchants de Disney" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/1089122174/42497816_p0_master1200.jpg) center; background-size:cover;"></a>
+											<div class="hot-count"><p>3 422</p></div>											<div class="hot-bot uppercase"><a href="/42/mechant-disney-illustration-japonais-j_6354">L'illustrateur japonais "J" repense les grands méchants de…</a></div>
+										</div>
+									</td>
+								</tr>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/ninja-danse-un-million-new-york-times-square-nouvel-an_6352" title="Ninja tente de faire danser 1 million de new-yorkais à Times Square pour le nouvel an, l'échec cuisant" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/1203169828/ninja-nouvel-an.png) center; background-size:cover;"></a>
+											<div class="hot-count"><p>1 798</p></div>											<div class="hot-bot uppercase"><a href="/42/ninja-danse-un-million-new-york-times-square-nouvel-an_6352">Ninja tente de faire danser 1 million de new-yorkais à…</a></div>
+										</div>
+									</td>
+								</tr>
+													</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/entreprise-lingerie-financement-participatif-ligne-maillot-de-bain-sexy-succube-japon_6349" title="Une campagne de crowdfunding pour lancer une ligne de maillots de bain de succubes sexy !" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/1271807921/6a30c7aa229ef8359a1a37b6049485f3.jpg) center; background-size:cover;"></a>
+											<div class="hot-count"><p>809</p></div>											<div class="hot-bot uppercase"><a href="/42/entreprise-lingerie-financement-participatif-ligne-maillot-de-bain-sexy-succube-japon_6349">Une campagne de crowdfunding pour lancer une ligne de…</a></div>
+										</div>
+									</td>
+								</tr>
+														<tr>
+									<td>
+										<div class="dropped-img">
+											<a href="/42/taylor-swift-ariel-la-petite-sirene_6351" title="Taylor Swift fête la nouvelle année en s’habillant en Ariel la petite sirène" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/284179098/ariel.jpg) center; background-size:cover;"></a>
+											<div class="hot-count"><p>773</p></div>											<div class="hot-bot uppercase"><a href="/42/taylor-swift-ariel-la-petite-sirene_6351">Taylor Swift fête la nouvelle année en s’habillant en Ariel…</a></div>
+										</div>
+									</td>
+								</tr>
+													</table>
+						</div>
+
+					</div>
+
+				</div>
+
+			</li>
+			
+			<li class="dropdown-menu touchme">
+				<a class="bonasavoir uppercase" href="/bonasavoir">Bon à Savoir</a>
+
+				<div class="dropped-menu revealtouch">
+
+					<div class="dropped-container">
+												<div class="dropped-left">
+							<table width="228" class="left">
+								<tr>
+									<th colspan="2"><a style="margin-left:0px;" href="/bonasavoir"><h4 class="uppercase">Bon à Savoir</h4></a></th>
+								</tr>
+								<tr>
+									<td>
+										<p style="width:200px;font-size:12px;">
+											Envie de te coucher plus cultivé que quand tu t'es levé ?
+										</p><br>
+										<p style="width:200px;padding-top:5px;font-size:12px;">
+											Alors viens découvrir une sélection d'informations dont tu n'imaginais même pas l'existence dans tes rêves les plus fous.
+										</p><br>
+										<p style="width:200px;padding-top:5px;font-size:12px;">
+											Tout est Bon à savoir !
+										</p>
+									</td>
+								</tr>
+							</table>
+							<table width="110" class="left">
+								<tr>
+									<th colspan="2"><h4 class="uppercase">Catégories</h4></th>
+								</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/geek">Geek</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/insolite">Insolite</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/nature">Nature</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/people">People</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/sante">Santé</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/science">Science</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/histoire">Histoire</a></td>
+										<td width="70"></td>
+									</tr>
+																	<tr>
+										<td><div style="width: 7px; height: 7px; background-color: #e9e9e9;"></div></td>
+										<td><a href="/bonasavoir/categorie/cinema">Cinéma</a></td>
+										<td width="70"></td>
+									</tr>
+															</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/bonasavoir/lemurien-gratte-anus-sol-mille-pattes_1069" title="Pour quelle raison les lémuriens utilisent les mille-pattes pour se gratter les fesses ?" style="background:url(https://static.hitek.fr/img/bas/ill_c/1206371447/lemurien_roux.JPG) center; background-size:cover;"></a>
+													<div class="hot-count"><p>25</p></div>													<div class="hot-bot uppercase"><a href="/bonasavoir/lemurien-gratte-anus-sol-mille-pattes_1069">Pour quelle raison les lémuriens utilisent les mille-pattes…</a></div>
+												</div>
+											</td>
+										</tr>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/bonasavoir/yakuse-legende-esclave-africain-premier-samourai-etranger-noir-japon_1068" title="Yasuke, l'esclave devenu le premier samouraï étranger au Japon" style="background:url(https://static.hitek.fr/img/bas/ill_c/1709211331/yakuse-e28093-samourac3af-noir-e28093-japon-a.jpg) center; background-size:cover;"></a>
+													<div class="hot-count"><p>951</p></div>													<div class="hot-bot uppercase"><a href="/bonasavoir/yakuse-legende-esclave-africain-premier-samourai-etranger-noir-japon_1068">Yasuke, l'esclave devenu le premier samouraï étranger au…</a></div>
+												</div>
+											</td>
+										</tr>
+															</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+																<tr>
+										<td>
+											<div class="dropped-img">
+												<a href="/bonasavoir/avaler-lego-decouvrez-quand-le-recuperer_1066" title="Si vous avalez un LEGO, découvrez quand vous pouvez espérer le récupérer" style="background:url(https://static.hitek.fr/img/bas/ill_c/1394565644/lego-tete.png) center; background-size:cover;"></a>
+												<div class="hot-count"><p>129</p></div>												<div class="hot-bot uppercase"><a href="/bonasavoir/avaler-lego-decouvrez-quand-le-recuperer_1066">Si vous avalez un LEGO, découvrez quand vous pouvez espérer…</a></div>
+											</div>
+										</td>
+									</tr>
+																<tr>
+										<td>
+											<div class="dropped-img">
+												<a href="/bonasavoir/carotte-glaciaire-annee-536-terrible-humanite_1067" title="L'année 536 a été terrible pour l'humanité, c'est une carotte glaciaire qui le dit !" style="background:url(https://static.hitek.fr/img/bas/ill_c/1843456976/illustr-carotte-glaciaire.jpg) center; background-size:cover;"></a>
+												<div class="hot-count"><p>12</p></div>												<div class="hot-bot uppercase"><a href="/bonasavoir/carotte-glaciaire-annee-536-terrible-humanite_1067">L'année 536 a été terrible pour l'humanité, c'est une…</a></div>
+											</div>
+										</td>
+									</tr>
+														</table>
+						</div>
+
+						<div class="dropped-right">
+							<table>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/bonasavoir/blobfish-resssemble-pas-du-tout-ramassis-gelee-milieu-naturel_1065" title="Le blobfish ne ressemble pas du tout à ce ramassis de gelée dans son milieu naturel" style="background:url(https://static.hitek.fr/img/bas/ill_c/1716832312/blobfish.png) center; background-size:cover;"></a>
+													<div class="hot-count"><p>14</p></div>													<div class="hot-bot uppercase"><a href="/bonasavoir/blobfish-resssemble-pas-du-tout-ramassis-gelee-milieu-naturel_1065">Le blobfish ne ressemble pas du tout à ce ramassis de gelée…</a></div>
+												</div>
+											</td>
+										</tr>
+																		<tr>
+											<td>
+												<div class="dropped-img">
+													<a href="/bonasavoir/decouverte-rampe-pente-inclinaison-construction-pyramides-egypte_1063" title="Le mystère de la construction des pyramides égyptiennes en passe d'être percé  !" style="background:url(https://static.hitek.fr/img/bas/ill_c/1432793286/pyramide.jpg) center; background-size:cover;"></a>
+													<div class="hot-count"><p>169</p></div>													<div class="hot-bot uppercase"><a href="/bonasavoir/decouverte-rampe-pente-inclinaison-construction-pyramides-egypte_1063">Le mystère de la construction des pyramides égyptiennes en…</a></div>
+												</div>
+											</td>
+										</tr>
+															</table>
+						</div>
+
+					</div>
+
+				</div>
+
+			</li>
+			
+			
+			<li><a id="box_link" class="uppercase" href="https://box.hitek.fr" target="_blank" style="color:white;background:rgb(255,210,0);background:-moz-linear-gradient(top, rgba(255,210,0,1) 0%, rgba(255,186,0,1) 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,210,0,1)), color-stop(100%,rgba(255,186,0,1)));background:-webkit-linear-gradient(top, rgba(255,210,0,1) 0%,rgba(255,186,0,1) 100%);background:-o-linear-gradient(top, rgba(255,210,0,1) 0%,rgba(255,186,0,1) 100%);background:-ms-linear-gradient(top, rgba(255,210,0,1) 0%,rgba(255,186,0,1) 100%);background:linear-gradient(to bottom, rgba(255,210,0,1) 0%,rgba(255,186,0,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffd200', endColorstr='#ffba00',GradientType=0);">
+				Découvrez la Hitek<span style="background:white;color:#ffcd00;padding:0 2px;margin-left:1px;display:inline-block;height:11px;line-height:2px;padding-top:11px;">Box</span>
+			</a></li>
+			
+					
+
+					</ul>
+	</div>
+</div>
+
+				
+				</div>
+			</div>
+			
+
+			<div id="header-container2" class="none">
+				<div class="header-container2">
+
+					<div class="header-content2">
+																					<div class="left logo2 inline-block"><a href="/"><img src="https://static.hitek.fr/img/logolight.png" alt="HITEK"></a></div>
+																									<div class="header-menu2">
+					    	<div class="left special-menu">
+								<a href="/actualite">
+									<div class="left menu-number">43</div>
+									<div class="left" style="font-size:16px">
+										<div style="margin-top:8px;">article(s)</div>
+										<div style="margin-top:-5px;">cette semaine</div>
+									</div>
+								</a>
+							</div>
+							<div class="actu-link left">
+								<h4 class="uppercase">Actualité à ne pas manquer</h4>
+								<a href="/actualite/scenario-suite-qui-veut-la-peau-de-roger-rabbit-disney_18213" title="Un scénario pour la suite de 'Qui veut la peau de Roger Rabbit ?' attendrait bien sagement chez Disney depuis des années">Un scénario pour la suite de 'Qui veut la peau de…</a>
+							</div>
+													</div>
+						<div class="left">
+							<form action="https://hitek.fr/recherche/" id="cse-search-box">
+								<div>
+									<input type="hidden" name="cx" value="partner-pub-5178384206751892:6437068555" />
+									<input type="hidden" name="cof" value="FORID:10" />
+									<input type="hidden" name="ie" value="UTF-8" />
+									<input type="text" class="search2" name="q" size="55" placeholder="Chercher une info.." />
+								</div>
+							</form>
+						</div>
+						<div class="header-icon2 right">
+							<a href="https://www.facebook.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/facebook.png" alt="facebook"></a>
+							<a href="https://twitter.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/twitter.png" alt="twitter"></a>
+							<a href="https://plus.google.com/108192390834046132765" target="_blank"><img src="https://static.hitek.fr/img/gplus.png" alt="google plus"></a>
+							<a href="https://hitek.fr/rss" target="_blank"><img src="https://static.hitek.fr/img/rss.png" alt="rss"></a>
+						</div>
+						<div id="fb-root"></div>
+
+					</div>
+					</div>
+
+			</div>
+		</div>
+		
+		
+		
+	
+	<div class="habillages none" ></div>
+
+	<div id="ctBoc">
+
+<div id="wrap">
+	
+
+		
+		<div class="content-container">
+		
+			<div class="content container clearfix">
+			
+				<!--[if lte IE 6]>
+	<div id="ie6msg">
+		<h4 class="uppercase">Savez-vous que votre navigateur est obsolète&nbsp;?</h4>
+		<p>Pour naviguer de la manière la plus satisfaisante sur notre site, nous recommandons que vous procédiez à une mise à jour de votre navigateur. La version actuelle, <a class="getie7" target="_blank" href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">Internet Explorer&nbsp;10</a>, est disponible. La mise à jour est gratuite. Si vous utilisez un PC au travail, veuillez contacter votre service informatique.</p>
+		<p>Si vous le souhaitez, vous pouvez aussi essayer d'autres navigateurs Web populaires comme par exemple <a class="ie6expl" target="_blank" href="http://www.google.fr/intl/fr/chrome/browser/">Google Chrome</a>, <a class="ie6expl" target="_blank" href="http://mozilla.com">FireFox</a> ou <a class="ie6expl" target="_blank" href="http://www.opera.com">Opera</a></p>
+	</div>
+<![endif]-->				
+				
+<!-- hitek_728x90 -->
+
+
+<div style="margin:5px auto 20px auto;text-align:center;">
+    <script type='text/javascript'>tmntag.adTag('header_ad');</script>
+</div>
+	
+
+<script type="text/javascript">
+	if (typeof(is_blocker) != 'undefined' && is_blocker == true) {
+				document.write("<center><a href='https://hitek.fr/redirect.php?url=https://box.hitek.fr' target='_blank'><img src='/img/hitekbox-wide.jpg' style='margin:5px auto 20px auto;'></a></center>");
+			}
+</script>				
+				
+		<div class="content-left-home clearfix left">
+							
+			<div class="content-basics">
+	<div id="featured">
+							<a href="/actualite/resolutions-ambitieuses-cours-complets-petits-prix_18207" class="carousel-item" data-caption="#18207" style="background-image: url('https://static.hitek.fr/img/actualite/ill_c/1976015975/unity-sns-game-sizzle.jpg');" alt="Prenez des résolutions ambitieuses avec ces cours complets à petits prix (Unity, Deep Learning, Dessin, Développement Web...)"></a>
+										<span class="orbit-caption" id="18207"><span class="red">À la une</span><br><a href="/actualite/resolutions-ambitieuses-cours-complets-petits-prix_18207">Prenez des résolutions ambitieuses avec ces cours complets à petits prix (Unity, Deep Learning, Dessin, Développement Web...)</a></span>
+							<a href="/actualite/unfriended-dark-web-bonnes-raisons-voir-film_18133" class="carousel-item" data-caption="#18133" style="background-image: url('https://static.hitek.fr/img/actualite/ill_c/1073998252/unfriended-dark-web.jpg');" alt="Unfriended: Dark Web, 3 bonnes raisons d'aller voir le film"></a>
+										<span class="orbit-caption" id="18133"><span class="red">À la une</span><br><a href="/actualite/unfriended-dark-web-bonnes-raisons-voir-film_18133">Unfriended: Dark Web, 3 bonnes raisons d'aller voir le film</a></span>
+							<a href="/actualite/jeux-video-profitez-meilleurs-prix-avant-noel_18042" class="carousel-item" data-caption="#18042" style="background-image: url('https://static.hitek.fr/img/actualite/ill_c/580053520/nintendo-switch-ssb-ultimate-bundle-FANART-1-1038x576.jpg');" alt="Jeux vidéo : profitez des meilleurs prix avant Noël"></a>
+										<span class="orbit-caption" id="18042"><span class="red">À la une</span><br><a href="/actualite/jeux-video-profitez-meilleurs-prix-avant-noel_18042">Jeux vidéo : profitez des meilleurs prix avant Noël</a></span>
+							<a href="/actualite/no-game-no-life-rebuts-societe-tome-2_17994" class="carousel-item" data-caption="#17994" style="background-image: url('https://static.hitek.fr/img/actualite/ill_c/697067064/No-Game-No-Life-Header.png');" alt="No Game No Life : découverte d'un nouveau monde par deux rebuts de la société dans le tome 2"></a>
+										<span class="orbit-caption" id="17994"><span class="red">À la une</span><br><a href="/actualite/no-game-no-life-rebuts-societe-tome-2_17994">No Game No Life : découverte d'un nouveau monde par deux rebuts de la société dans le tome 2</a></span>
+							<a href="/actualite/bons-plans-fnac-gopro-tablette-gaming-black-friday_17900" class="carousel-item" data-caption="#17900" style="background-image: url('https://static.hitek.fr/img/actualite/ill_c/1443885591/fnack-cyber-monday.jpg');" alt="Bons plans : Nintendo Switch, coffrets Blu-Ray, TV 4K, le Cyber Monday est aussi à la FNAC"></a>
+										<span class="orbit-caption" id="17900"><span class="red">À la une</span><br><a href="/actualite/bons-plans-fnac-gopro-tablette-gaming-black-friday_17900">Bons plans : Nintendo Switch, coffrets Blu-Ray, TV 4K, le Cyber Monday est aussi à la FNAC</a></span>
+			</div>
+</div>			
+			<div class="content-basics">
+				
+				
+<a class="home-bloc videogames left" href="/test/electronic-arts-fifa-19_1648#test" style="background-image: url(/img/products/electronic-arts/electronic-arts-fifa-19/electronic-arts-fifa-19-cover.jpg);">
+	<span class="caption align-right align-bottom">
+		<span class="small red">Jeux-vidéo</span><br>
+		<span>Test FIFA 19 : le spectacle avant tout</span>
+	</span>
+</a>				
+				
+<a class="home-bloc hightech left" href="/test/google-pixel-3-xl_1653#test" style="background-image: url(/img/products/google/google-pixel-3-xl/google-pixel-3-xl-cover.jpg);">
+	<span class="caption align-left align-bottom">
+		<span class="small red">Informatique</span><br>
+		<span>Test Google Pixel 3 XL, la nouvelle référence…</span>
+	</span>
+</a>			
+			</div>
+		</div>
+		
+		<div class="content-right-home clearfix left omega">
+		
+			<div class="content-right-home clearfix left omega">
+			
+				
+<a class="home-bloc" href="/actualite/quizz-decors-paysages-disney-partie-2_18183" style="background-image: url(https://static.hitek.fr/img/actualite/ill_m/1003189112/disney-quizz-decor-1.jpg);">
+	<span class="caption align-right align-top">
+		<span class="small red">Quizz</span><br>
+		<span>Quizz : saurez-vous retrouver tous les films Disney Juste à…</span>
+	</span>
+</a>				
+			</div>
+		
+			<div class="content-right-home clearfix left omega">
+			
+				
+<a class="home-bloc trailers" href="/actualite/1ere-bande-annonce-xmen-dark-phoenix_17409" style="background-image: url(https://static.hitek.fr/img/actualite/ill_m/1942973105/x-men-dark-phoenix.jpg);">
+	<table class="caption align-left align-bottom" style="left: 0;">
+		<tr>
+			<td class="relative" rowspan="2" style="width: 90px;">
+				<div class="absolute" style="top: 0;bottom: 0;width: 100%;background: rgba(0,0,0,0.7);margin-bottom: 2px;">
+					<img class="absolute" src="/img/home-play.png" style="margin: -35px 10px 0 10px;top: 50%;">
+				</div>
+			</td>
+			<td>
+				<span class="small red">Bande-annonce</span>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>X-Men Dark Phoenix : la première bande annonce est enfin là !</span>
+			</td>
+		</tr>
+	</table>
+</a>				
+			</div>
+			
+		</div>
+		
+					
+				<div class="content-left clearfix left">
+					
+					
+		<div class="content-basics relative" style="border: none;">
+							
+			<ul class="menu uppercase">
+				<li class="active inline-block" rel="products"><a>Produits</a></li><li class="inline-block" rel="films"><a>Films</a></li><li class="inline-block" rel="series-tv"><a>Séries TV</a></li><li class="inline-block" rel="jeux-video"><a>Jeux-vidéo</a></li>
+			</ul>
+			
+			<div class="menu-scroll scroll-right absolute hidden" rel="right">&#9664;</div>
+			
+						<ul class="submenu uppercase" rel="products">
+				<li class="switch-products inline-block" rel="products" data-search="smartphones">
+								<img class="icon" src="https://static.hitek.fr/img/types-icons/smartphones.png">
+								<a href="/produits/smartphones">Smartphones</a>
+							  </li><li class="switch-products inline-block" rel="products" data-search="casques-ecouteurs">
+								<img class="icon" src="https://static.hitek.fr/img/types-icons/casques-ecouteurs.png">
+								<a href="/produits/casques-ecouteurs">Casques/Écouteurs</a>
+							  </li><li class="switch-products inline-block" rel="products" data-search="camera-de-sport">
+								<img class="icon" src="https://static.hitek.fr/img/types-icons/camera-de-sport.png">
+								<a href="/produits/camera-de-sport">Caméra de sport</a>
+							  </li><li class="switch-products inline-block" rel="products" data-search="appareils-photo">
+								<img class="icon" src="https://static.hitek.fr/img/types-icons/appareils-photo.png">
+								<a href="/produits/appareils-photo">Appareils photo</a>
+							  </li><li class="switch-products inline-block" rel="products" data-search="accessoires-tv"><a href="/produits/accessoires-tv">Accessoires TV</a></li><li class="switch-products inline-block" rel="products" data-search="aspirateurs-robots"><a href="/produits/aspirateurs-robots">Aspirateurs robots</a></li><li class="switch-products inline-block" rel="products" data-search="capteurs-activite"><a href="/produits/capteurs-activite">Capteurs d'activité</a></li><li class="switch-products inline-block" rel="products" data-search="claviers"><a href="/produits/claviers">Claviers</a></li><li class="switch-products inline-block" rel="products" data-search="consoles-de-jeux"><a href="/produits/consoles-de-jeux">Consoles de jeux</a></li><li class="switch-products inline-block" rel="products" data-search="drone"><a href="/produits/drone">Drone</a></li><li class="switch-products inline-block" rel="products" data-search="enceintes"><a href="/produits/enceintes">Enceintes</a></li><li class="switch-products inline-block" rel="products" data-search="gps-avertisseurs"><a href="/produits/gps-avertisseurs">GPS/Avertisseurs</a></li><li class="switch-products inline-block" rel="products" data-search="jouets"><a href="/produits/jouets">Jouets</a></li><li class="switch-products inline-block" rel="products" data-search="montres-connectees"><a href="/produits/montres-connectees">Montres connectées</a></li><li class="switch-products inline-block" rel="products" data-search="objets-connectes"><a href="/produits/objets-connectes">Objets connectés</a></li><li class="switch-products inline-block" rel="products" data-search="objets-sante-connectes"><a href="/produits/objets-sante-connectes">Objets santé connectés</a></li><li class="switch-products inline-block" rel="products" data-search="ordinateurs"><a href="/produits/ordinateurs">Ordinateurs</a></li><li class="switch-products inline-block" rel="products" data-search="souris"><a href="/produits/souris">Souris</a></li><li class="switch-products inline-block" rel="products" data-search="tablettes"><a href="/produits/tablettes">Tablettes</a></li><li class="switch-products inline-block" rel="products" data-search="tv"><a href="/produits/tv">TV</a></li><li class="switch-products inline-block" rel="products" data-search="vehicule"><a href="/produits/vehicule">Véhicules</a></li>			</ul>
+			
+						<ul class="submenu uppercase none" rel="films">
+				<li class="switch-products inline-block" rel="films" data-search="action"><a href="/produits/films/action">Action</a></li><li class="switch-products inline-block" rel="films" data-search="animation"><a href="/produits/films/animation">Animation</a></li><li class="switch-products inline-block" rel="films" data-search="animation-3d"><a href="/produits/films/animation-3d">Animation 3D</a></li><li class="switch-products inline-block" rel="films" data-search="arts-martiaux"><a href="/produits/films/arts-martiaux">Arts martiaux</a></li><li class="switch-products inline-block" rel="films" data-search="aventure"><a href="/produits/films/aventure">Aventure</a></li><li class="switch-products inline-block" rel="films" data-search="biographique"><a href="/produits/films/biographique">Biographique</a></li><li class="switch-products inline-block" rel="films" data-search="catastrophe"><a href="/produits/films/catastrophe">Catastrophe</a></li><li class="switch-products inline-block" rel="films" data-search="comedie"><a href="/produits/films/comedie">Comédie</a></li><li class="switch-products inline-block" rel="films" data-search="comedie-espionage"><a href="/produits/films/comedie-espionage">comédie espionage</a></li><li class="switch-products inline-block" rel="films" data-search="crime"><a href="/produits/films/crime">Crime</a></li><li class="switch-products inline-block" rel="films" data-search="dessin-anime"><a href="/produits/films/dessin-anime">Dessin-Animé</a></li><li class="switch-products inline-block" rel="films" data-search="documentaire"><a href="/produits/films/documentaire">Documentaire</a></li><li class="switch-products inline-block" rel="films" data-search="drame"><a href="/produits/films/drame">Drame</a></li><li class="switch-products inline-block" rel="films" data-search="epouvante"><a href="/produits/films/epouvante">Épouvante</a></li><li class="switch-products inline-block" rel="films" data-search="espionnage"><a href="/produits/films/espionnage">Espionnage</a></li><li class="switch-products inline-block" rel="films" data-search="fantastique"><a href="/produits/films/fantastique">Fantastique</a></li><li class="switch-products inline-block" rel="films" data-search="film-d"><a href="/produits/films/film-d">Film d</a></li><li class="switch-products inline-block" rel="films" data-search="gore"><a href="/produits/films/gore">Gore</a></li><li class="switch-products inline-block" rel="films" data-search="historique"><a href="/produits/films/historique">Historique</a></li><li class="switch-products inline-block" rel="films" data-search="horreur"><a href="/produits/films/horreur">Horreur</a></li><li class="switch-products inline-block" rel="films" data-search="humour"><a href="/produits/films/humour">Humour</a></li><li class="switch-products inline-block" rel="films" data-search="parodique"><a href="/produits/films/parodique">Parodique</a></li><li class="switch-products inline-block" rel="films" data-search="peplum"><a href="/produits/films/peplum">Péplum</a></li><li class="switch-products inline-block" rel="films" data-search="policier"><a href="/produits/films/policier">Policier</a></li><li class="switch-products inline-block" rel="films" data-search="post-apocalyptique"><a href="/produits/films/post-apocalyptique">Post-apocalyptique</a></li><li class="switch-products inline-block" rel="films" data-search="science-fiction"><a href="/produits/films/science-fiction">Science-fiction</a></li><li class="switch-products inline-block" rel="films" data-search="space-opera"><a href="/produits/films/space-opera">space opéra</a></li><li class="switch-products inline-block" rel="films" data-search="super-heros"><a href="/produits/films/super-heros">Super-héros</a></li><li class="switch-products inline-block" rel="films" data-search="thriller"><a href="/produits/films/thriller">Thriller</a></li><li class="switch-products inline-block" rel="films" data-search="western"><a href="/produits/films/western">Western</a></li>			</ul>
+			
+						<ul class="submenu uppercase none" rel="series-tv">
+				<li class="switch-products inline-block" rel="series-tv" data-search="action"><a href="/produits/series-tv/action">Action</a></li><li class="switch-products inline-block" rel="series-tv" data-search="animation"><a href="/produits/series-tv/animation">Animation</a></li><li class="switch-products inline-block" rel="series-tv" data-search="animation-3d"><a href="/produits/series-tv/animation-3d">Animation 3D</a></li><li class="switch-products inline-block" rel="series-tv" data-search="aventure"><a href="/produits/series-tv/aventure">Aventure</a></li><li class="switch-products inline-block" rel="series-tv" data-search="comedie"><a href="/produits/series-tv/comedie">Comédie</a></li><li class="switch-products inline-block" rel="series-tv" data-search="drame"><a href="/produits/series-tv/drame">Drame</a></li><li class="switch-products inline-block" rel="series-tv" data-search="espionnage"><a href="/produits/series-tv/espionnage">Espionnage</a></li><li class="switch-products inline-block" rel="series-tv" data-search="fantastique"><a href="/produits/series-tv/fantastique">Fantastique</a></li><li class="switch-products inline-block" rel="series-tv" data-search="historique"><a href="/produits/series-tv/historique">Historique</a></li><li class="switch-products inline-block" rel="series-tv" data-search="horreur"><a href="/produits/series-tv/horreur">Horreur</a></li><li class="switch-products inline-block" rel="series-tv" data-search="humour"><a href="/produits/series-tv/humour">Humour</a></li><li class="switch-products inline-block" rel="series-tv" data-search="manga"><a href="/produits/series-tv/manga">Manga</a></li><li class="switch-products inline-block" rel="series-tv" data-search="policier"><a href="/produits/series-tv/policier">Policier</a></li><li class="switch-products inline-block" rel="series-tv" data-search="politique"><a href="/produits/series-tv/politique">Politique</a></li><li class="switch-products inline-block" rel="series-tv" data-search="science-fiction"><a href="/produits/series-tv/science-fiction">Science-fiction</a></li><li class="switch-products inline-block" rel="series-tv" data-search="sitcom"><a href="/produits/series-tv/sitcom">Sitcom</a></li><li class="switch-products inline-block" rel="series-tv" data-search="super-heros"><a href="/produits/series-tv/super-heros">Super-héros</a></li><li class="switch-products inline-block" rel="series-tv" data-search="thriller"><a href="/produits/series-tv/thriller">Thriller</a></li><li class="switch-products inline-block" rel="series-tv" data-search="zombies"><a href="/produits/series-tv/zombies">Zombies</a></li>			</ul>
+			
+						<ul class="submenu uppercase none" rel="jeux-video">
+				<li class="switch-products inline-block" rel="jeux-video" data-search="pc"><a href="/produits/jeux-videos/pc">PC</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="ps3"><a href="/produits/jeux-videos/ps3">PS3</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="xbox-360"><a href="/produits/jeux-videos/xbox-360">Xbox 360</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="ps4"><a href="/produits/jeux-videos/ps4">PS4</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="xbox-one"><a href="/produits/jeux-videos/xbox-one">Xbox One</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="wii-u"><a href="/produits/jeux-videos/wii-u">Wii U</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="wii"><a href="/produits/jeux-videos/wii">Wii</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="3ds"><a href="/produits/jeux-videos/3ds">3DS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="ps-vita"><a href="/produits/jeux-videos/ps-vita">PS Vita</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="tablettes-android"><a href="/produits/jeux-videos/tablettes-android">Tablettes Android</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="tablettes-ios"><a href="/produits/jeux-videos/tablettes-ios">Tablettes iOS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="2ds"><a href="/produits/jeux-videos/2ds">2DS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="mac"><a href="/produits/jeux-videos/mac">Mac</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="linux"><a href="/produits/jeux-videos/linux">Linux</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="new-3ds"><a href="/produits/jeux-videos/new-3ds">New 3DS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="nx"><a href="/produits/jeux-videos/nx">NX</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="playstation-4"><a href="/produits/jeux-videos/playstation-4">Playstation 4</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="oculus"><a href="/produits/jeux-videos/oculus">Oculus</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="steam-os"><a href="/produits/jeux-videos/steam-os">Steam OS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="windows"><a href="/produits/jeux-videos/windows">Windows</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="mac-os-x"><a href="/produits/jeux-videos/mac-os-x">Mac OS X</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="android"><a href="/produits/jeux-videos/android">Android</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="ios"><a href="/produits/jeux-videos/ios">iOS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="apple-ios"><a href="/produits/jeux-videos/apple-ios">apple IOS</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="microsoft-windows"><a href="/produits/jeux-videos/microsoft-windows">microsoft windows</a></li><li class="switch-products inline-block" rel="jeux-video" data-search="switch"><a href="/produits/jeux-videos/switch">Switch</a></li>			</ul>
+			
+			<div class="menu-scroll scroll-left absolute hidden" rel="left">&#9654;</div>
+			
+			<div class="products-preview">
+				<a class="poster inline-block relative hidden">
+				</a>
+			</div>
+			
+		</div>
+
+				
+					<div class="content-basics">
+						<div class="content-title">
+							<h2>Actualité</h2>
+						</div>
+						
+												
+														<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/bons-plans-xiaomi-pocophone-f1-yeelight-utorch-q5_18224" title="Bonnes affaires du jour : Pocophone F1 à 255 euros, ampoule connectée Yeelight et une station de rechargement multi-USB" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1295206194/bonnes_affaires.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>3</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/bons-plans-xiaomi-pocophone-f1-yeelight-utorch-q5_18224" title="Bonnes affaires du jour : Pocophone F1 à 255 euros, ampoule connectée Yeelight et une station de rechargement multi-USB" >
+												Bonnes affaires du jour : Pocophone F1 à 255 euros, ampoule connectée Yeelight et une station de rechargement multi-USB											</a>
+											</h3>
+										<p>
+											Un smartphone, une ampoule connectée et une station de rechargement, ce sont les promotions du jour.											<br>
+											<span class="news-infos">
+												Il y a 21 heures par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/breath-of-the-wild-tuer-temps-bibliotheques-hyrule-defi_6360" title="Breath of the Wild : pour tuer le temps, les joueurs s'amusent à déplacer des bibliothèques partout dans Hyrule" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/902900717/69bn5l84ei721.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>301</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/breath-of-the-wild-tuer-temps-bibliotheques-hyrule-defi_6360" title="Breath of the Wild : pour tuer le temps, les joueurs s'amusent à déplacer des bibliothèques partout dans Hyrule" >
+												Breath of the Wild : pour tuer le temps, les joueurs s'amusent à déplacer des bibliothèques partout dans Hyrule											</a>
+											</h3>
+										<p>
+											Sorti en mars 2017, &agrave; l'occasion du lancement de la Nintendo Switch, The Legend of Zelda: Breath of the Wild ne…											<br>
+											<span class="news-infos">
+												Il y a 22 heures par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/super-smash-bro--ultimate-astuces-debloquer-personnage_18223" title="Super Smash Bros. Ultimate : les astuces pour débloquer tous les personnages" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1955954621/H2x1_NSwitch_SuperSmashBrosUltimate_02_image1600w.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>289</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/super-smash-bro--ultimate-astuces-debloquer-personnage_18223" title="Super Smash Bros. Ultimate : les astuces pour débloquer tous les personnages" >
+												Super Smash Bros. Ultimate : les astuces pour débloquer tous les personnages											</a>
+											</h3>
+										<p>
+											Voici des astuces pour débloquer plus rapidement tous les personnages du jeu Super Smash Bros. Ultimate.											<br>
+											<span class="news-infos">
+												Il y a 23 heures par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/national-geographic-createurs-the-walking-dead-documentaire-animalier-horrifique_6359" title="National Geographic et les créateurs de The Walking Dead se mettent aux documentaires animaliers horrifiques" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/1778625727/deadbydawn.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>14</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/national-geographic-createurs-the-walking-dead-documentaire-animalier-horrifique_6359" title="National Geographic et les créateurs de The Walking Dead se mettent aux documentaires animaliers horrifiques" >
+												National Geographic et les créateurs de The Walking Dead se mettent aux documentaires animaliers horrifiques											</a>
+											</h3>
+										<p>
+											Fin septembre, le studio Telltale Games surprenait l'industrie du jeu vid&eacute;o en annon&ccedil;ant la mise en place…											<br>
+											<span class="news-infos">
+												Il y a 24 heures par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/xiaomi-smartphone-pliable-video_18222" title="Xiaomi : une vidéo d'un smartphone qui se plie de chaque côté" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1953694952/tnw.JPG) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>34</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/xiaomi-smartphone-pliable-video_18222" title="Xiaomi : une vidéo d'un smartphone qui se plie de chaque côté" >
+												Xiaomi : une vidéo d'un smartphone qui se plie de chaque côté											</a>
+											</h3>
+										<p>
+											Xiaomi serait en train de travailler sur un smartphone qui peut se plier deux fois											<br>
+											<span class="news-infos">
+												Il y a 1 jour par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/the-legend-of-zelda-minus-world-version-nes_6358" title="The Legend of Zelda : un Minus World découvert dans la version NES, l'intrigante trouvaille" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/853843335/the-legend-of-zelda-minus-world2.png) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>130</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/the-legend-of-zelda-minus-world-version-nes_6358" title="The Legend of Zelda : un Minus World découvert dans la version NES, l'intrigante trouvaille" >
+												The Legend of Zelda : un Minus World découvert dans la version NES, l'intrigante trouvaille											</a>
+											</h3>
+										<p>
+											Apr&egrave;s s'&ecirc;tre pench&eacute; sur l'existence d'un Minus World, ou Monde -1, dans Super Mario Bros sur NES,…											<br>
+											<span class="news-infos">
+												Il y a 1 jour par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/fresque-univers-ghibli-mousse-japon-chichibu-higashichichibu-_6356" title="Il grave dans la mousse des personnages Ghibli et le rendu est superbe" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/506788329/noface.JPG) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>116</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/fresque-univers-ghibli-mousse-japon-chichibu-higashichichibu-_6356" title="Il grave dans la mousse des personnages Ghibli et le rendu est superbe" >
+												Il grave dans la mousse des personnages Ghibli et le rendu est superbe											</a>
+											</h3>
+										<p>
+											@hana_inko&nbsp;&eacute;tait en train de se balader sur un col de montagne reliant la ville de Chichibu au village de Higashichichibu et &agrave; sa grande surprise,…											<br>
+											<span class="news-infos">
+												Il y a 1 jour par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/la-casa-de-michel-jacquie-et-michel-reprend-casa-papel_6357" title="La Casa de Michel : quand Jacquie et Michel reprend La Casa de Papel de Netflix" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/554268784/casa-de-michel.png) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>3 490</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/la-casa-de-michel-jacquie-et-michel-reprend-casa-papel_6357" title="La Casa de Michel : quand Jacquie et Michel reprend La Casa de Papel de Netflix" >
+												La Casa de Michel : quand Jacquie et Michel reprend La Casa de Papel de Netflix											</a>
+											</h3>
+										<p>
+											Fin 2017, la s&eacute;rie espagnole La Casa de Papel d&eacute;barquait sur Netflix. Rapidement devenue un incontournable de la plate-forme, la s&eacute;rie s'est ensuite…											<br>
+											<span class="news-infos">
+												Il y a 1 jour par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/modification-sauvegarde-donnee-interdit-japon_18220" title="Japon : une nouvelle loi interdit la modification de sauvegarde d'un jeu vidéo" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1642452613/Switch-01.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>238</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/modification-sauvegarde-donnee-interdit-japon_18220" title="Japon : une nouvelle loi interdit la modification de sauvegarde d'un jeu vidéo" >
+												Japon : une nouvelle loi interdit la modification de sauvegarde d'un jeu vidéo											</a>
+											</h3>
+										<p>
+											Le Japon vient de voter une loi interdisant la modification de sauvegarde d'un jeu vidéo.											<br>
+											<span class="news-infos">
+												Il y a 1 jour par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/18-ans-routine-couple-mario-kart-64-the_6355" title="Chaque jour depuis 18 ans, ce couple décide qui devra faire le thé par une partie de Mario Kart 64" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/50225749/9987-768x432.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>12 483</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/18-ans-routine-couple-mario-kart-64-the_6355" title="Chaque jour depuis 18 ans, ce couple décide qui devra faire le thé par une partie de Mario Kart 64" >
+												Chaque jour depuis 18 ans, ce couple décide qui devra faire le thé par une partie de Mario Kart 64											</a>
+											</h3>
+										<p>
+											Alors que certains s'amusent &agrave; se bander les yeux en vue du Bird Box Challenge, d'autres ne changent pas leurs…											<br>
+											<span class="news-infos">
+												Il y a 2 jours par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/jeux-video-pas-manquer-2019_18211" title="20 jeux vidéo qu'il ne faut pas manquer en 2019" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1826433765/sorties-2019-jeux-video-illu.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>1 889</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/jeux-video-pas-manquer-2019_18211" title="20 jeux vidéo qu'il ne faut pas manquer en 2019" >
+												20 jeux vidéo qu'il ne faut pas manquer en 2019											</a>
+											</h3>
+										<p>
+											2019 sera une année chargée en jeux vidéo, la preuve avec ces 20 titres immanquables.											<br>
+											<span class="news-infos">
+												Il y a 2 jours par GomeWars											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/bons-plans-xiaomi-mi-mix-3-manette--8bitdo-n30-pro2-trottinette-alfawise-m1_18218" title="Bons plans du jour : Xiaomi Mi Mix 3 à 436 euros, manette 8Bitdo N30 Pro2 Bluetooth et trottinette Alfawise M1" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1503293832/deal.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>3</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/bons-plans-xiaomi-mi-mix-3-manette--8bitdo-n30-pro2-trottinette-alfawise-m1_18218" title="Bons plans du jour : Xiaomi Mi Mix 3 à 436 euros, manette 8Bitdo N30 Pro2 Bluetooth et trottinette Alfawise M1" >
+												Bons plans du jour : Xiaomi Mi Mix 3 à 436 euros, manette 8Bitdo N30 Pro2 Bluetooth et trottinette Alfawise M1											</a>
+											</h3>
+										<p>
+											Le dernier smartphone de chez Xiaomi en promotion, le Mi Mix 3, une manette Bluetooth retro et une trottinette…											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/bonasavoir/lemurien-gratte-anus-sol-mille-pattes_1069" title="Pour quelle raison les lémuriens utilisent les mille-pattes pour se gratter les fesses ?" style="background:url(https://static.hitek.fr/img/bas/ill_t/1206371447/lemurien_roux.JPG) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>25</p></div>										<div class="article-type">Bon à savoir</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/bonasavoir/lemurien-gratte-anus-sol-mille-pattes_1069" title="Pour quelle raison les lémuriens utilisent les mille-pattes pour se gratter les fesses ?" >
+												Pour quelle raison les lémuriens utilisent les mille-pattes pour se gratter les fesses ?											</a>
+											</h3>
+										<p>
+											Vous ne le saviez peut-&ecirc;tre pas, mais les l&eacute;muriens &agrave; front roux de Madagascar se frottent les fesses sur des mille-pattes avant de les manger. Pour…											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/42/mechant-disney-illustration-japonais-j_6354" title="L'illustrateur japonais "J" repense les grands méchants de Disney" style="background:url(https://static.hitek.fr/img/42/thumbnails/ill_t/1089122174/42497816_p0_master1200.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>3 422</p></div>										<div class="article-type">Z42</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/42/mechant-disney-illustration-japonais-j_6354" title="L'illustrateur japonais "J" repense les grands méchants de Disney" >
+												L'illustrateur japonais "J" repense les grands méchants de Disney											</a>
+											</h3>
+										<p>
+											L'illustrateur japonais "J", connu aussi sous le pseudo osnose1213, a retravaill&eacute; les grands m&eacute;chants de Disney dans un style tr&egrave;s…											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/test/anker-soundcore-flare_1666#test" title="Test Anker SoundCore Flare : une enceinte Bluetooth 360 degrés" style="background:url(https://static.hitek.fr/img/products/anker/anker-soundcore-flare/anker-soundcore-flare-t_cover.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>1</p></div>										<div class="article-type">Produit</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/test/anker-soundcore-flare_1666#test" title="Test Anker SoundCore Flare : une enceinte Bluetooth 360 degrés" >
+												Test Anker SoundCore Flare : une enceinte Bluetooth 360 degrés											</a>
+											</h3>
+										<p>
+											Anker présente sa nouvelle enceinte Bluetooth avec un son à 360 degrés, la SoundCore Flare : fiche technique, prix et date de sortie.											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Mickaël											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/black-mirror-bandersnatch-une-revolution-vraiment_18217" title="Black Mirror "Bandersnatch" : une révolution, vraiment ?" style="background:url(https://static.hitek.fr/img/actualite/ill_t/862047395/black-mirror-bandersnatch-netflix-review.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>324</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/black-mirror-bandersnatch-une-revolution-vraiment_18217" title="Black Mirror "Bandersnatch" : une révolution, vraiment ?" >
+												Black Mirror "Bandersnatch" : une révolution, vraiment ?											</a>
+											</h3>
+										<p>
+											L'épisode interactif de Black Mirror offre le choix aux téléspectateurs de choisir la suite de l'histoire.											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Justin											</span>
+										</p>
+									</div>
+									
+								</div>
+													<div class="news-bloc ">
+								
+									<div class="news-img left noread-red">
+										<a href="/actualite/comment-pokemon-atteint-peu-a-peu-une-nouvelle-apogee_18216" title="Comment Pokémon atteint, peu à peu, un nouvel âge d'or ?" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1279095402/pokemon-the-movie-mewtwo-strikes-back-evolution.jpg) center; background-size:cover;" ></a>
+										<div class="hot-count"><p>331</p></div>										<div class="article-type">Actu</div>
+									</div>
+									
+									<div class="news-content">
+																				<h3>
+											<a href="/actualite/comment-pokemon-atteint-peu-a-peu-une-nouvelle-apogee_18216" title="Comment Pokémon atteint, peu à peu, un nouvel âge d'or ?" >
+												Comment Pokémon atteint, peu à peu, un nouvel âge d'or ?											</a>
+											</h3>
+										<p>
+											Avec l'arrivée d'un nouveau film, Pokémon s'apprête à reconquérir ses fans de toujours.											<br>
+											<span class="news-infos">
+												Il y a 2 jours par Justin											</span>
+										</p>
+									</div>
+									
+								</div>
+											
+						<div class="content-footer">
+																						<center><span><a class="load-articles pointer" data-page="1">Charger plus d'articles</a></span></center>
+													</div>
+						
+					</div>
+					
+						
+		<div class="content-basics ">
+			<div class="content-title">
+				<div class="hot-title">Derniers tests</div>
+			</div>
+						<table style="width:30%;padding:12px 7px 5px 7px;" class="relative inline-block last-tests">
+				<tr>
+					<td class="relative" style="width:85px;height:100px;padding:5px 10px 5px 5px;">
+						<a class="" style="display:block;text-align:center;" href="/test/anker-soundcore-flare_1666#test">
+													<img style="max-height:100px;max-width:85px;" src="/img/products/anker/anker-soundcore-flare/medium/anker-soundcore-flare.jpg" alt="Test Anker SoundCore Flare : une enceinte Bluetooth 360 degrés">
+												</a>
+					</td>
+					
+					<td>
+						<h3 style="font-size:15px;">
+							<a href="/test/anker-soundcore-flare_1666#test" title="anker SoundCore Flare">
+								anker SoundCore Flare							</a>
+						</h3>
+						<p>
+							<span class="news-infos">
+								Il y a 2 jours							</span>
+						</p>
+												<img style="position:absolute;bottom:10px;" src="/img/tests/notes/note-8.png" alt="Note : 8">
+											</td>
+				</tr>
+			</table>
+						<table style="width:30%;padding:12px 7px 5px 7px;" class="relative inline-block last-tests">
+				<tr>
+					<td class="relative" style="width:85px;height:100px;padding:5px 10px 5px 5px;">
+						<a class="" style="display:block;text-align:center;" href="/test/google-pixel-3-xl_1653#test">
+													<img style="max-height:100px;max-width:85px;" src="/img/products/google/google-pixel-3-xl/medium/google-pixel-3-xl-1.jpg" alt="Test Google Pixel 3 XL, la nouvelle référence Android pour une expérience pure : fiche technique, prix et date de sortie">
+												</a>
+					</td>
+					
+					<td>
+						<h3 style="font-size:15px;">
+							<a href="/test/google-pixel-3-xl_1653#test" title="Google Pixel 3 XL">
+								Google Pixel 3 XL							</a>
+						</h3>
+						<p>
+							<span class="news-infos">
+								Il y a 3 jours							</span>
+						</p>
+												<img style="position:absolute;bottom:10px;" src="/img/tests/notes/note-9.png" alt="Note : 9,2">
+											</td>
+				</tr>
+			</table>
+						<table style="width:30%;padding:12px 7px 5px 7px;" class="relative inline-block last-tests">
+				<tr>
+					<td class="relative" style="width:85px;height:100px;padding:5px 10px 5px 5px;">
+						<a class="" style="display:block;text-align:center;" href="/test/asus-tuf765_1662#test">
+													<img style="max-height:100px;max-width:85px;" src="/img/products/asus/asus-tuf765/medium/asus-tuf765.jpg" alt="Test Asus TUF765, un ordinateur portable pour les gamers avec un grand écran 144 Hz : fiche technique, prix et date de sortie">
+												</a>
+					</td>
+					
+					<td>
+						<h3 style="font-size:15px;">
+							<a href="/test/asus-tuf765_1662#test" title="Asus TUF765">
+								Asus TUF765							</a>
+						</h3>
+						<p>
+							<span class="news-infos">
+								Il y a 1 mois							</span>
+						</p>
+												<img style="position:absolute;bottom:10px;" src="/img/tests/notes/note-8.png" alt="Note : 8,2">
+											</td>
+				</tr>
+			</table>
+						<div class="content-footer">
+				<span style="float:right;margin-right:10px;"><a style="font-size:16px;" href="/tests">tous les tests</a></span>
+				<div class="clearfix"></div>
+			</div>
+						
+		</div>
+					
+				</div>
+				
+				<div class="content-right clearfix left omega">
+					
+					<div  style="margin-bottom: 10px;">
+	<a href="http://bit.ly/2DKNPm8" rel="nofollow" target="_blank">
+		<img src="https://static.hitek.fr/img/neolegend-ban.png" alt="Neo Legend" />
+	</a>
+</div>				
+					
+        <div style="margin:0 auto 10px auto;text-align: center;">
+        <script type='text/javascript'>tmntag.adTag('side_ad');</script>
+    </div>
+
+
+    <script type="text/javascript">
+    	if (typeof(is_blocker) != 'undefined' && is_blocker == true) {
+                		document.write("<center><a href='https://hitek.fr/redirect.php?url=https://box.hitek.fr' target='_blank'><img src='/img/hitekbox-square.jpg' style='width:300px; margin:0 auto 10px auto;'></a></center>");
+    		    	}
+    </script>
+
+    				
+					<div class="follow content-basics">
+	<div class="content-title"><h2>Suivez <img class="like-box-logo" src="https://static.hitek.fr/img/logo.png" alt="HITEK"></h2></div>
+	<div class="fb-like-box" data-href="https://www.facebook.com/hitekfr" data-width="285" data-height="245" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false"></div>
+	<div class="follow-counter">
+		<ul>
+			<li class="inline-block"><a href="https://www.facebook.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/facebook.png" alt="facebook"></a></li>
+			<li class="inline-block"><a href="https://twitter.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/twitter.png" alt="twitter"></a></li>
+			<li class="inline-block"><a href="https://plus.google.com/108192390834046132765" target="_blank"><img src="https://static.hitek.fr/img/gplus.png" alt="google plus"></a></li>
+			<li class="inline-block"><a href="https://hitek.fr/rss" target="_blank"><img src="https://static.hitek.fr/img/rss.png" alt="rss"></a></li>
+		</ul>
+	</div>
+	<div class="newsletter" id="newsletter_social_block">
+		<p>Recevez nos derniers sujets directement sur votre adresse E-mail, une fois par semaine.</p>
+		<div class="social-text"></div>
+		<input type="text" class="social-popup-email" placeholder="Votre adresse email">
+		<input class="right social-popup-submit" type="button" value="Inscription à la newsletter">
+		<div class="clearfix"></div>
+	</div>
+</div>
+					
+										
+										
+					<!-- hitek_pave2 -->
+
+        <div style="margin:0 auto 10px auto;text-align: center;">
+        <script type='text/javascript'>tmntag.adTag('side_ad2');</script>
+	</div>
+
+					
+					
+<div id="popular_articles" class="content-basics">
+	<div class="content-title">
+		<div class="popular-title">Articles populaires</div>
+	</div>
+	
+					<div class="p_div_1 popular-img">
+					<a class="popular-img-a" href="/actualite/avengers-theorie-loki-pierre-esprit-marvel-confirme_18191" title="Loki contrôlé par la pierre de l'Esprit dans Avengers ? Marvel confirme la théorie" style="background:url(https://static.hitek.fr/img/actualite/ill_t/1777230039/loki.jpg) center; background-size:cover;"></a>
+					<div class="hot-count"><p>1 484</p></div>					<div class="popular-link">
+						<a href="/actualite/avengers-theorie-loki-pierre-esprit-marvel-confirme_18191">Loki contrôlé par la pierre de l'Esprit dans Avengers ? Marvel confirme la…</a>
+					</div>
+				</div>
+					<div class="p_div_1 popular-img">
+					<a class="popular-img-a" href="/actualite/the-punisher-premier-teaser-date-de-sortie-saison-2_18204" title="The Punisher : un premier teaser et une date de sortie pour la saison 2 ?" style="background:url(https://static.hitek.fr/img/actualite/ill_t/311084537/the-punisher.jpg) center; background-size:cover;"></a>
+					<div class="hot-count"><p>977</p></div>					<div class="popular-link">
+						<a href="/actualite/the-punisher-premier-teaser-date-de-sortie-saison-2_18204">The Punisher : un premier teaser et une date de sortie pour la saison 2 ?</a>
+					</div>
+				</div>
+					<div class="p_div_1 popular-img">
+					<a class="popular-img-a" href="/actualite/top-tweets-geek-186_18192" title="Le top 15 des tweets geek de la semaine #186" style="background:url(https://static.hitek.fr/img/actualite/ill_t/807003485/illustr-top-tweets-86.jpg) center; background-size:cover;"></a>
+					<div class="hot-count"><p>902</p></div>					<div class="popular-link">
+						<a href="/actualite/top-tweets-geek-186_18192">Le top 15 des tweets geek de la semaine #186</a>
+					</div>
+				</div>
+		
+	</div>
+
+					
+				</div>
+			
+			</div>
+			
+		</div>
+		
+	
+</div></div>
+
+
+	<div class="footer-container">
+	    <div class="footer-content">
+		    <div class="footer-bloc aboutus grid_6">
+		   					    <h3>À propos de hitek.fr</h3>
+			    <p>Hitek est le webzine de toutes les actualités High-Tech et Geek : les nouvelles technologies, les produits mobiles et la culture geek.</p>
+			    <a href="https://www.facebook.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/footer-fb.png" alt="facebook"></a>
+			    <a href="https://twitter.com/hitekfr" target="_blank"><img src="https://static.hitek.fr/img/footer-twit.png" alt="twitter"></a>
+			    <a href="https://plus.google.com/108192390834046132765" target="_blank"><img src="https://static.hitek.fr/img/footer-gplus.png" alt="google plus"></a>
+			    <a href="https://static.hitek.fr/img/hitek-soutien.jpg" target="_blank" rel="nofollow"><img src="https://static.hitek.fr/img/footer-soutien.png"></a>
+			    		    </div>
+		    
+				    <div class="footer-bottom">
+			   	<p>
+				   	Copyright 2005 - 2019 eCookie SAS - Tous droits réservés - 
+					<a href="/a-propos">À propos</a> -
+										<a href="/confidentialite">Mentions légales</a> - 
+																Designed by Jimbeo
+				</p>
+		   	</div>
+			   	
+		</div>
+		
+		<script type="text/javascript">
+			<!--
+			Xt_param = 's=530126&p=';
+			try {Xt_r = top.document.referrer;}
+			catch(e) {Xt_r = document.referrer; }
+			Xt_h = new Date();
+			Xt_i = '<img width="80" height="15" border="0" alt="" ';
+			Xt_i += 'src="https://logv4.xiti.com/g.xiti?'+Xt_param;
+			Xt_i += '&hl='+Xt_h.getHours()+'x'+Xt_h.getMinutes()+'x'+Xt_h.getSeconds();
+			if(parseFloat(navigator.appVersion)>=4)
+			{Xt_s=screen;Xt_i+='&r='+Xt_s.width+'x'+Xt_s.height+'x'+Xt_s.pixelDepth+'x'+Xt_s.colorDepth;}
+			document.write(Xt_i+'&ref='+Xt_r.replace(/[<>"]/g, '').replace(/&/g, '$')+'" title="Internet Audience">');
+			//-->
+		</script>
+		<noscript>
+			<img width="80" height="15" src="https://logv4.xiti.com/g.xiti?s=530126&p=" alt="WebAnalytics" />
+		</noscript>
+		
+	</div>
+<script type="text/javascript">
+	// var habillage = false;
+	var footer_expand = false;
+</script>
+
+
+
+
+	<script>
+	   (function() {
+	     var nt = document.createElement('script');
+	     nt.type = 'text/javascript';
+	     nt.async = true;
+	     nt.src = 'https://serve.natoms.com/conf/?key=aGl0ZWs=&type=home';
+	     var s = document.getElementsByTagName('script')[0];
+	     s.parentNode.insertBefore(nt, s);
+	   })();
+	</script>
+
+
+
+   <script type='text/javascript'>tmntag.adTag('oop_ad');</script>
+
+
+<script type="text/javascript" src="https://www.smartadserver.com/ac?out=js&nwid=104&siteid=58862&pgname=hp&fmtid=928&tgt=[sas_target]&visit=m&tmstp=[timestamp]&clcturl=[countgo]"></script>
+
+
+</body>
+</html>
